@@ -7,6 +7,24 @@ Natural Language Processing
     FrontEnd REACT Framework Next.js
     BackEnd  Python
 
+FrontEnd 
+
+        npm i node-modules
+        npm run dev
+
+BackEnd
+
+         pip install -r requirements.txt
+         cd backend
+         uvicorn main:app
+         numpy==1.26.4
+         opencv-python==4.8.0.76
+         pip install mediapipe==0.10.3
+         pip install openai
+         pip install spacy
+         python -m spacy download en_core_web_sm
+        
+
 Natural language processing (NLP) is a field that focuses on making natural human language usable by computer programs. NLTK, or Natural Language Toolkit, is a Python package that you can use for NLP
 
     Find text to analyze
@@ -51,6 +69,8 @@ ircle back to lemmatizing. Like stemming, lemmatizing reduces words to their cor
     >>> lemmatizer = WordNetLemmatizer()
     >>> lemmatizer.lemmatize("scarves")
         'scarf'
+
+
     
     
     
