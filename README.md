@@ -4,13 +4,23 @@ Final year research
 
 Natural Language Processing
 
-    FrontEnd REACT Framework Next.js
-    BackEnd  Python
+    FrontEnd 
+         REACT 
+            Next.js
+            CSS tailwindCSS
+            
+    BackEnd  
+         Python
 
 FrontEnd 
 
         npm i node-modules
         npm run dev
+
+   tailwindcss     
+           
+           npm install -D tailwindcss
+
 
 BackEnd
 
