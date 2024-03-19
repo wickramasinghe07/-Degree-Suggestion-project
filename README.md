@@ -1,4 +1,4 @@
-# -Degree-Suggestion-project
+# Degree-Suggestion-project
 Final year research
 
 
