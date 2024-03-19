@@ -1,9 +1,6 @@
 # Degree-Suggestion-project
 Final year research
 
-
-Natural Language Processing
-
     FrontEnd 
          REACT 
             Next.js
@@ -34,6 +31,7 @@ BackEnd
          pip install spacy
          python -m spacy download en_core_web_sm
         
+#Natural Language Processing
 
 Natural language processing (NLP) is a field that focuses on making natural human language usable by computer programs. NLTK, or Natural Language Toolkit, is a Python package that you can use for NLP
 
